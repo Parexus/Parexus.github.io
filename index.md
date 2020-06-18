@@ -13,3 +13,4 @@ Robinson Crusoe is a fictional character from a novel by Daniel Defoe. From Engl
 > Father being a Foreigner of Bremen, who settled
 > first at Hull.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Crusoe_2_%28by_Paget%29.jpg"/>
