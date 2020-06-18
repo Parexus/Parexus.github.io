@@ -7,3 +7,9 @@ Robinson Crusoe is a fictional character from a novel by Daniel Defoe. From Engl
 * smart
 * believing, although he has to find his faith first
 * a genious in improvisation
+
+> I was born in the Year 1632, in the City of York,
+> of a good Family, tho’ not of that Country, my
+> Father being a Foreigner of Bremen, who settled
+> first at Hull.
+
